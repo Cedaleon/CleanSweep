@@ -33,4 +33,4 @@ CleanSweep es una herramienta sencilla pero eficaz diseñada para limpiar archiv
 Para ejecutar CleanSweep, simplemente ejecuta el siguiente comando en tu terminal:
 
 ```bash
-python tempXterminator.py
+python CleanSweep.py
