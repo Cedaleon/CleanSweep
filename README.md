@@ -18,7 +18,7 @@ CleanSweep es una herramienta sencilla pero eficaz diseñada para limpiar archiv
 1. Clona este repositorio:
 
     ```bash
-    git clone https://github.com/tuusuario/CleanSweep.git
+    git clone https://github.com/Cedaleon/CleanSweep.git
     cd CleanSweep
     ```
 
