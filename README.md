@@ -18,8 +18,8 @@ CleanSweep es una herramienta sencilla pero eficaz diseñada para limpiar archiv
 1. Clona este repositorio:
 
     ```bash
-    git clone https://github.com/tuusuario/TempXterminator.git
-    cd TempXterminator
+    git clone https://github.com/tuusuario/CleanSweep.git
+    cd CleanSweep
     ```
 
 2. Instala las dependencias requeridas:
