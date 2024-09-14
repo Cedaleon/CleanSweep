@@ -1,4 +1,6 @@
-# CleanSweep 🧹
+🧹![CleanSweep](https://github.com/user-attachments/assets/b5586e9f-88c9-498f-ac9d-097925ec9a9a)
+
+# CleanSweep
 
 CleanSweep es una herramienta sencilla pero eficaz diseñada para limpiar archivos temporales y "basura" de sistemas Windows, liberando espacio en disco y mejorando el rendimiento. También permite seleccionar directorios personalizados para eliminar archivos no deseados.
 
